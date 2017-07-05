@@ -17,3 +17,13 @@ Install Node.js, npm (> 5.0 at the time of writing). Then install latest ionic a
 ```bash
 $ sudo npm install -g ionic cordova
 ```
+
+## Contributing
+
+In general, please follow the "fork-and-pull" Git workflow.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that the changes can be merged :-)
